@@ -1,5 +1,8 @@
 _repo: A-hitch-in-time_68959
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68959-h/images/cover.jpg
 creator:
   author:
     agent_name: Pohl, Frederik
@@ -15,6 +18,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/46565
     - https://en.wikipedia.org/wiki/Frederik_Pohl
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68959#A-hitch-in-time
 gutenberg_issued: '2022-09-11'
 identifiers:
   gutenberg: '68959'
